@@ -2,7 +2,7 @@ Package: facopy.annot
 Type: Package
 Title: Annotation for the copy number alteration association and
         enrichment analyses with facopy
-Version: 0.111.0
+Version: 0.112.0
 Date: 2014-08-27
 Author: David Mosen-Ansorena
 Maintainer: David Mosen-Ansorena <dmosen.gn@cicbiogune.es>
